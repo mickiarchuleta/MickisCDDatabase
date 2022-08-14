@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.mylibrary-merged_res-24:/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "com.example.mylibrary-material-1.6.1-5:/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "com.example.mylibrary-merged_res-24:/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "com.example.mylibrary-material-1.6.1-5:/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "com.example.mylibrary-merged_res-24:/xml/standalone_badge_gravity_top_start.xml",
+        "source": "com.example.mylibrary-material-1.6.1-5:/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "com.example.mylibrary-merged_res-24:/xml/standalone_badge_offset.xml",
+        "source": "com.example.mylibrary-material-1.6.1-5:/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "com.example.mylibrary-merged_res-24:/xml/standalone_badge.xml",
+        "source": "com.example.mylibrary-material-1.6.1-5:/xml/standalone_badge.xml"
+    }
+]

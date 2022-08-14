@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.mylibrary-merged_res-24:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "com.example.mylibrary-material-1.6.1-5:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "com.example.mylibrary-merged_res-24:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "com.example.mylibrary-material-1.6.1-5:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "com.example.mylibrary-merged_res-24:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "com.example.mylibrary-material-1.6.1-5:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    }
+]

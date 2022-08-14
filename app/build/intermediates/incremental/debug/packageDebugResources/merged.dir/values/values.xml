@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bands">
+        
+        <item>ABBA</item>
+        <item>AC/DC</item>
+        <item>Adele</item>
+        <item>Aimee Mann</item>
+        <item>Al Green</item>
+        <item>The Alan Parsons Project</item>
+        <item>Alanis Morissette</item>
+        <item>Alice Cooper</item>
+        <item>Amanda Ghost</item>
+        <item>Amy Winehouse</item>
+        <item>Ani DiFranco</item>
+        <item>Arcade Fire</item>
+        <item>Aretha Franklin</item>
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+    </string-array>
+    <string-array name="descriptions">
+        
+        <item>A Swedish pop group that formed in Stockholm in 1972\.</item>
+        <item>An Australian rock band that formed in Sydney in 1973\.</item>
+        <item>An English singer\/songwriter from Tottenham who released a debut album in 2008\.</item>
+        <item>An American singer\/songwriter from Richmond who released a debut album in 1993\.</item>
+        <item>An American singer\/songwriter from Arkansas who released a debut album in 1968\.</item>
+        <item>A Scottish-English rock band from the United Kingdom that formed in 1975\.</item>
+        <item>A Canadian singer\/songwriter from Ottawa who released a debut album in 1991\.</item>
+        <item>An American singer\/songwriter from Phoenix who formed a band in his name in 1972\.</item>
+        <item>An English singer\/songwriter from London who released a debut album in 2000\.</item>
+        <item>An English singer\/songwriter from London who released a debut album in 2003\.</item>
+        <item>An American singer\/songwriter from Buffalo who released a debut album in 1990\.</item>
+        <item>A Canadian rock band that formed in Montreal in 2001\.</item>
+        <item>An American singer\/songwriter from Memphis who released a debut album in 1956\.</item>
+        <item>An English rock band that formed in Liverpool in 1960\.</item>
+        <item>An American rock band that formed in Washington in 1987\.</item>
+    </string-array>
+    <string-array name="words">
+        <item><item><a href="https://genius.com/Abba-waterloo-lyrics">Waterloo</a></item><item>
+            <a href="https://genius.com/Abba-sos-lyrics">S\.O\.S\.</a></item><item>
+            <a href="https://genius.com/Abba-i-do-i-do-i-do-i-do-i-do-lyrics">I Do\, I Do\, I Do\, I Do\, I Do</a></item><item>
+            <a href="https://genius.com/Abba-mamma-mia-lyrics">Mamma Mia</a></item><item>
+            <a href="https://genius.com/Abba-fernando-lyrics">Fernando</a></item><item>
+            <a href="https://genius.com/Abba-dancing-queen-live-lyrics">Dancing Queen</a></item><item>
+            <a href="https://genius.com/Abba-knowing-me-knowing-you-lyrics">Knowing Me\, Knowing You</a></item><item>
+            <a href="https://genius.com/Abba-the-name-of-the-game-lyrics">The Name Of The Game</a></item><item>
+            <a href="https://genius.com/Abba-take-a-chance-on-me-lyrics">Take A Chance On Me</a></item><item>
+            <a href="https://genius.com/Abba-chiquitita-lyrics">Chiquitita</a></item><item>
+            <a href="https://genius.com/Abba-the-winner-takes-it-all-lyrics">The Winner Takes It All</a></item></item>
+
+        <item><item><a href="https://genius.com/Ac-dc-hells-bells-lyrics">Hells Bells</a></item><item>
+            <a href="https://genius.com/Ac-dc-shoot-to-thrill-lyrics">Shoot To Thrill</a></item><item>
+            <a href="https://genius.com/Ac-dc-what-do-you-do-for-money-honey-lyrics">What Do You Do For Money, Honey\?</a></item><item>
+            <a href="https://genius.com/Ac-dc-given-the-dog-a-bone-lyrics">Given The Dog A Bone</a></item><item>
+            <a href="https://genius.com/Ac-dc-let-me-put-my-love-into-you-lyrics">Let Me Put My Love Into You</a></item><item>
+            <a href="https://genius.com/Ac-dc-back-in-black-lyrics">Back In Black</a></item><item>
+            <a href="https://genius.com/Ac-dc-you-shook-me-all-night-long-lyrics">You Shook Me All Night Long</a></item><item>
+            <a href="https://genius.com/Ac-dc-have-a-drink-on-me-lyrics">Have A Drink On Me</a></item><item>
+            <a href="https://genius.com/Ac-dc-shake-a-leg-lyrics">Shake A Leg</a></item><item>
+            <a href="https://genius.com/Ac-dc-rock-and-roll-aint-noise-pollution-lyrics">Rock And Roll Ain\'t Noise Pollution</a></item></item>
+
+        <item><item><a href="https://genius.com/Ac-dc-dirty-deeds-done-dirt-cheap-lyrics">Dirty Deeds Done Dirt Cheap</a></item><item>
+            <a href="https://genius.com/Ac-dc-love-at-first-feel-lyrics">Love At First Feel</a></item><item>
+            <a href="https://genius.com/Ac-dc-big-balls-lyrics">Big Balls</a></item><item>
+            <a href="https://genius.com/Ac-dc-rocker-lyrics">Rocker</a></item><item>
+            <a href="https://genius.com/Ac-dc-problem-child-lyrics">Problem Child</a></item><item>
+            <a href="https://genius.com/Ac-dc-theres-gonna-be-some-rockin-lyrics">There\'s Gonna Be Some Rockin\'</a></item><item>
+            <a href="https://genius.com/Ac-dc-aint-no-fun-waiting-round-to-be-a-millionaire-lyrics">Ain\'t No Fun \(Waiting \'Round To Be A Millionaire\)</a></item><item>
+            <a href="https://genius.com/Ac-dc-ride-on-lyrics">Ride On</a></item><item>
+            <a href="https://genius.com/Ac-dc-squealer-lyrics">Squealer</a></item></item>
+
+        <item><item>Rolling In The Deep</item><item>Rumour Has It</item><item>Turning Tables</item><item>Don't You Remember</item><item>
+                    Set Fire To The Rain</item><item>He Won't Go</item><item>Take It All</item><item>I'll Be Waiting</item><item>One And Only
+                    </item><item>Lovesong</item><item>Someone Like You</item></item>
+                <item><item>I Should've Known</item><item>Fifty Years After the Fair</item><item>4th of July</item><item>
+                    Could've Been Anyone</item><item>Put Me On Top</item><item>Stupid Thing</item><item>Say Anything</item><item>
+                    Jacob Marley's Chain</item><item>Mr. Harris</item><item>I Could Hurt You Now</item><item>
+                    I Know There's A Word</item><item>I've Had It</item><item>Way Back When</item><item>Untitled</item></item>
+                <item><item>Long Shot</item><item>Choice In The Matter</item><item>Sugarcoated</item><item>You Could Make a Killing</item><item>
+                    Superball</item><item>Amateur</item><item>All Over Now</item><item>Par For the Course</item><item>You're With Stupid Now
+                    </item><item>That's Just What You Are</item><item>Frankenstein</item><item>Ray</item><item>It\'s Not Safe</item><item>
+                    How Am I Different\?</item><item>Nothing Is Good Enough</item><item>Red Vines</item><item>The Fall of the World's Own
+                    Optimist</item><item>Satellite</item><item>Deathly</item><item>Ghost World</item><item>Calling It Quits</item><item>
+                    Driving Sideways</item></item>
+                <item><item>Just Like Anyone</item><item>Susan</item><item>It Takes All Kinds</item><item>You Do</item></item><item><item>
+                    One</item><item>Momentum</item><item>Build That Wall</item><item>Deathly</item><item>Driving Sideways</item><item>You Do</item>
+                    <item>Nothing Is Good Enough</item><item>Wise Up</item><item>Save Me</item><item>Goodbye Stranger</item><item>
+                    The Logical Song</item><item>Dreams</item><item>Magnolia</item></item>
+                <item><item>Humpty Dumpty</item><item>High on Sunday 51</item><item>Lost In Space</item><item>This Is How It Goes</item><item>
+                    Guys Like Me</item><item>Pavlov\'s Bell</item><item>Real Bad News</item><item>Invisible Ink</item><item>Today\'s the Day
+                    </item><item>The Moth</item><item>It\'s Not</item></item>
+                <item><item>Dear John</item><item>King of the Jailhouse</item><item>Goodbye Caroline</item><item>Going Through the Motions
+                    </item><item>I Can\'t Get My Head Around It</item><item>She Really Wants You</item><item>Video</item><item>Little Bombs
+                    </item><item>That\'s How I Knew This Story Would Break My Heart</item><item>I Can\'t Help You Anymore</item><item>
+                    I Was Thinking I Could Clean Up For Christmas</item><item>Beautiful</item></item>
+                <item><item>Freeway</item><item>Stranger Into Starman</item><item>Looking for Nothing</item><item>Phoenix</item><item>
+                    Borrowing Time</item><item>It\'s Over</item><item>Thirty One Today</item><item>Great Beyond</item><item>Medicine Wheel
+                    </item><item>Columbus Ave\.</item><item>Little Tornado</item><item>True Believer</item><item>Ballantines</item></item>
+                <item><item>Goose Snow Cone</item><item>Stuck in the Past</item><item>You Never Loved Me</item><item>Rollercoasters</item><item>
+                    Lies of Summer</item><item>Patient Zero</item><item>Good For Me</item><item>Knock It Off</item><item>Philly Sinks</item><item>
+                    Simple Fix</item><item>Poor Judge</item></item>
+                <item><item>I Can't Get Next to You</item><item>Are You Lonely For Me\, Baby</item><item>God Is Standing By</item><item>
+                    Tired of Being Alone</item><item>I\'m A Ram</item><item>Driving Wheel</item><item>Light My Fire</item><item>
+                    You Say It</item><item>Right Now\, Right Now</item><item>All Because</item></item>
+                <item><item>Let\'s Stay Together</item><item>La\-La For You</item><item>So You're Leaving</item><item>What Is This Feeling
+                    </item><item>Old Time Lovin\'</item><item>I\'ve Never Found A Girl</item><item>How Can You Mend A Broken Heart</item><item>
+                    Judy</item><item>It Ain\'t No Fun To Me</item></item>
+                <item><item>I\'m Still in Love with You</item><item>I\'m Glad You\'re Mine</item><item>Love and Happiness</item><item>
+                    What A Wonderful Thing Love Is</item><item>Simply Beautiful</item><item>Oh\, Pretty Woman</item><item>For The Good Times
+                    </item><item>Look What You Done For Me</item><item>One Of These Good Old Days</item></item>
+                <item><item>Tired Of Being Alone</item><item>Call Me</item><item>I\'m Still In Love With You</item><item>Here I Am \(Come and
+                    Take Me\)</item><item>Love and Happiness</item><item>Let\'s Stay Together</item><item>I Can\'t Get Next To You</item><item>
+                    You Ought To Be With Me</item><item>Look What You Done For Me</item><item>Let\'s Get Married</item><item>Livin\' For You
+                    </item><item>Sha\-La\-La</item><item>L\-O\-V\-E</item><item>Full of Fire</item><item>Belle</item></item>
+                <item><item>Voyager</item><item>What Goes Up\.\.\.</item><item>The Eagle Will Rise Again</item><item>One More River</item><item>
+                    Can\'t Take It With You</item><item>In The Lap Of The Gods</item><item>Pyramania</item><item>Hyper\-Gamma\-Spaces</item><item>
+                    Shadow Of A Lonely Man</item></item>
+                <item><item>All I Really Want</item><item>You Oughta Know</item><item>Perfect</item><item>Hand In My Pocket</item><item>
+                    Right Through You</item><item>Forgiven</item><item>You Learn</item><item>Head Over Feet</item><item>Mary Jane</item><item>
+                    Ironic</item><item>Not The Doctor</item><item>Wake Up</item><item>You Oughta Know \[Alternate Take\]</item></item>
+                <item><item>Front Row</item><item>Baba</item><item>Thank U</item><item>Are You Still Mad</item><item>Sympathetic Character</item><item>
+                    That I Would Be Good</item><item>The Coach</item><item>Can\'t Not</item><item>UR</item><item>I Was Hoping</item><item>
+                    One</item><item>Would Not Come</item><item>Unsent</item><item>So Pure</item><item>Joining You</item><item>Heart Of The House
+                    </item><item>Your Congratulations</item></item>
+                <item><item>21 Things I Want In A Lover</item><item>Narcissus</item><item>Hands Clean</item><item>Flinch</item><item>So Unsexy
+                    </item><item>Precious Illusions</item><item>That Particular Time</item><item>A Man</item><item>You Owe Me Nothing In Return
+                    </item><item>Surrendering</item><item>Utopia</item></item>
+                <item><item>Fear of Bliss</item><item>Bent For You</item><item>Sorry 2 Myself</item><item>Sister Blister</item><item>Offer</item><item>
+                    Unprodigal Daughter</item><item>Simple Together</item><item>Purgatorying</item><item>Hands Clean \[Acoustic\]</item></item>
+                <item><item>Citizen of the Planet</item><item>Underneath</item><item>Straitjacket</item><item>Versions of Violence</item><item>
+                    Not As We</item><item>In Praise Of The Vulnerable Men</item><item>Moratorium</item><item>Torch</item><item>Giggling Again
+                    For No Reason</item><item>Tapes</item><item>Incomplete</item><item>Orchid</item><item>The Guy Who Leaves</item><item>
+                    Madness</item><item>Limbo No More</item><item>On The Tequila \(Non\-Lp Track\)</item></item>
+                <item><item>guardian</item><item>woman down</item><item>\'til you</item><item>celebrity</item><item>sympathy</item><item>lens
+                    </item><item>spiral</item><item>numb</item><item>havoc</item><item>win and win</item><item>receive</item><item>edge of evolution
+                    </item></item>
+                <item><item>Welcome To My Nightmare</item><item>Devil\'s Food</item><item>The Black Widow</item><item>Some Folks</item><item>
+                    Only Women Bleed</item><item>Department of Youth</item><item>Cold Ethyl</item><item>Years Ago</item><item>Steen</item><item>
+                    The Awakening</item><item>Escape</item></item>
+                <item><item>Idol \(Hex Hector and Jonathan Peters Radio Mix\)</item><item>Idol \(Hex Hector and Jonathan Peters Club Mix\)
+                    </item><item>Idol \(Boy George and Kinky Roland Trance Your Arm Mix\)</item><item>Idol \(Boy George and Kinky Roland
+                    Gulub Dub Mix\)</item><item>Idol /(Hex Hector \&amp; Jonathan Peters Dub\)</item><item>Idol \(Dark Globe Mix\)</item><item>
+                    Idol \(album version\)</item></item>
+                <item><item>Intro\/Stronger Than Me</item><item>You Sent Me Flying</item><item>Know You Now</item><item>Fuck Me Pumps</item><item>
+                    I Heard Love Is Blind</item><item>Moody\'s Mood For Love</item><item>\(There Is\) No Greater Love</item><item>In My Bed
+                    </item><item>Take The Box</item><item>October Song</item><item>What Is It About Men</item><item>Amy Amy Amy\/Outro\/Brother
+                    \/Mr\. Magic</item></item>
+                <item><item>Rehab</item><item>You Know I\'m No Good</item><item>Me \&amp; Mr\. Jones</item><item>Just Friends</item><item>
+                    Back to Black</item><item>Love Is A Losing Game</item><item>Tears Dry On Their Own</item><item>Wake Up Alone</item><item>
+                    Some Unholy War</item><item>He Can Only Hold Her</item><item>You Know I\'m No Good \[Remix\]</item></item>
+                <item><item>Worthy</item><item>Tiptoe</item><item>Cradle And ALl</item><item>Shy</item><item>Sorry I Am</item><item>
+                    Light Of Some Kind</item><item>Not a Pretty Girl</item><item>The Million You Never Made</item><item>Hour Follows Hour
+                    </item><item>32 Flavors</item><item>Asking Too Much</item><item>This Bouquet</item><item>Crime For Crime</item><item>
+                    Coming Up</item><item>32 Flavors</item></item>
+                <item><item>Untouchable Face</item><item>Outta Me\, Onto You</item><item>Superhero</item><item>Dilate</item><item>
+                    Amazing Grace</item><item>Napoleon</item><item>Shameless</item><item>Done Wrong</item><item>Going Down</item><item>
+                    Adam \&amp; Eve</item><item>Joyful Girl</item></item>
+                <item><item>Little Plastic Castle</item><item>Fuel</item><item>Gravel</item><item>As Is</item><item>Two Little Girls</item><item>
+                    Deep Dish</item><item>Loom</item><item>Pixie</item><item>Swandive</item><item>Glass House</item><item>Independence Day</item><item>
+                    Pulse</item></item>
+                <item><item>To the Teeth</item><item>Soft Shoulder</item><item>Wish I May</item><item>Freakshow</item><item>Going Once</item><item>
+                    Hello Birmhingham</item><item>Back Back Back</item><item>Swing</item><item>Carry You Around</item><item>Cloud Blood</item><item>
+                    The Arrivals Gate</item><item>Providence</item><item>I Know This Bar</item></item>
+                <item><item>Ain\'t That The Way</item><item>O\.K\.</item><item>Garden Of Simple</item><item>Tamburitza Lingua</item><item>Marrow
+                    </item><item>Heartbreak Even</item><item>Harvest</item><item>Kazoointoit</item><item>Whatall Is Nice</item><item>What How When
+                    Where \(Why Who\)</item><item>Fierce Flawless</item><item>Rock Paper Scissors</item><item>Beautiful Night</item><item>
+                    Your Next Bold Move</item><item>This Box Contains</item><item>Reckoning</item><item>So What</item><item>Prison Prism</item><item>
+                    Imagine That</item><item>Flood Waters</item><item>Grey</item><item>Subdivision</item><item>Old Old Song</item><item>
+                    Sick Of Me</item><item>Don\'t Nobody Know</item><item>School Night</item><item>That Was My Love</item><item>Revelling</item><item>
+                    In Here</item></item>
+                <item><item>Swan Dive</item><item>Letter To A John\/Tamuritza Lingua</item><item>Grey</item><item>Cradle And All</item><item>
+                    Whatall Is Nice</item><item>What How When Where</item><item>To The Teeth</item><item>Revelling</item><item>Napoleon</item><item>
+                    Shrug</item><item>Welcome To\:</item><item>\'Comes a Time</item><item>Ain\'t That The Way</item><item>Dilate</item><item>
+                    Gratitude</item><item>Rock Paper Scissors</item><item>32 Flavors</item><item>Loom\/Pulse</item><item>Not A Pretty Girl
+                    </item><item>Self Evident</item><item>Reckoning</item><item>My I\.Q\.</item><item>Jukebox</item><item>You Had Time</item></item>
+                <item><item>Promised Land</item><item>In The Way</item><item>Icarus</item><item>Slide</item><item>O My My</item><item>Evolve</item>
+                    <item>Shrug</item><item>Phase</item><item>Here For Now</item><item>Second Intermission</item><item>Serpentine</item><item>
+                        Welcome To\:</item></item>
+                <item><item>Platforms</item><item>Swim</item><item>Educated Guess</item><item>Origami</item><item>Bliss Like This</item><item>
+                    The True Story of What Was</item><item>Bodily</item><item>You Each Time</item><item>Animal</item><item>Grand Canyon</item><item>
+                    Company</item><item>Raincheck</item><item>Akimbo</item><item>Bubble</item></item>
+                <item><item>Knuckle Down</item><item>Studying Stories</item><item>Manhole</item><item>Sunday Morning</item><item>Modulation</item><item>
+                    Seeing Eye Dog</item><item>Lag Time</item><item>Parameters</item><item>Callous</item><item>Paradigm</item><item>Minerva</item><item>
+                    Recoil</item></item>
+                <item><item>Hypnotized</item><item>Subconscious</item><item>In The Margins</item><item>Nicotine</item><item>Decree</item><item>
+                    78\% H2O</item><item>Millennium Theater</item><item>Half\-Assed</item><item>Reprieve</item><item>A Spade</item><item>
+                    Unrequited</item><item>Shroud</item><item>Reprise</item></item>
+                <item><item>Life Boat</item><item>Unworry</item><item>\¿Which Side Are You On\?</item><item>Splinter</item><item>Promiscuity
+                    </item><item>Albacore</item><item>J</item><item>If Yr Not</item><item>Hearse</item><item>Mariachi</item><item>Amendment
+                    </item><item>Zoo</item></item>
+                <item><item>Neighborhood \#1 \(Tunnels\)</item><item>Neighborhood \#2 \(Lika\)</item><item>Une Année Sans Lumiére</item><item>
+                    Neighborhood \#3 \(Power Out\)</item><item>Neighborhood \#4\(7 Kettles\)</item><item>Crown Of Love</item><item>
+                    Wake Up</item><item>Haiti</item><item>Rebellion \(Lies\)</item><item>In The Backseat</item></item>
+                <item><item>Black Mirror</item><item>Keep The Car Running</item><item>Neon Bible</item><item>Intervention</item><item>
+                    Black Wave\/Bad Vibrations</item><item>Ocean Of Noise</item><item>The Well And The Lighthouse</item><item>\(Antichrist
+                    Television Blues\)</item><item>Windowsill</item><item>No Cars Go</item><item>My Body Is A Cage</item></item>
+                <item><item>The Suburbs</item><item>Ready To Start</item><item>Modern Man</item><item>Rococo</item><item>Empty Room</item><item>
+                    City With No Children</item><item>Half Light I</item><item>Half Light II\(No Celebration\)</item><item>Suburban War</item><item>
+                    Month Of May</item><item>Wasted Hours</item><item>Deep Blue</item><item>We Used To Wait</item><item>Sprawl I |(Flatland|)
+                    </item><item>Sprawl II \(Mountains Beyond Mountains\)</item><item>The Suburbs \(Continued\)</item></item>
+                <item><item>Reflektor</item><item>We Exist</item><item>Flashbulb Eyes</item><item>Here Comes The Night Time</item><item>Normal Person
+                    </item><item>You Already Know</item><item>Joan of Arc</item><item>Here Comes The Night Time II</item><item>Awful Sound
+                    \(Oh Eurydice\)</item><item>It\'s Never Over\(Oh Orpheus\)</item><item>Porno</item><item>Afterlife</item><item>Supersymmetry
+                    </item></item>
+                <item><item>Everything_Now \(Continued\)</item><item>Everything Now</item><item>Signs Of Life</item><item>Creature Comfort
+                    </item><item>Peter Pan</item><item>Chemistry</item><item>Infinite Content</item><item>Infinite\_Content</item><item>
+                    Electric Blue</item><item>Good God Damn</item><item>Put Your Money On Me</item><item>We Don\'t Deserve Love</item><item>
+                    Everything Now \(Continued\)</item></item>
+                <item><item>Think</item><item>I Say A Little Prayer</item><item>See Saw</item><item>Night Time Is The Right Time</item><item>
+                    You Send Me</item><item>You\'re A Sweet Sweet Man</item><item>I Take What I Want</item><item>Hello Sunshine</item><item>
+                    A Change</item><item>I Can\'t See Myself Leaving You</item></item>
+                <item><item>Chain Of Fools</item><item>I Say A Little Prayer</item><item>\(You Make Me Feel Like\) A Natural Woman</item><item>
+                    Think</item><item>Rock Steady</item><item>Until You Come Back To Me \(That\'s What I\'m Gonna Do\)</item><item>
+                    Respect</item><item>Spanish Harlem</item><item>Dr\. Feelgood \(Love Is A Serious Business\)</item><item>Do Right Woman\,
+                    Do Right Man</item><item>I Never Loved A Man \(The Way I Love You\)</item><item>Save Me</item></item>
+                <item><item>Taxman</item><item>Eleanor Rigby</item><item>I\'m Only Sleeping</item><item>Love You To</item><item>Here\, There
+                     And Everywhere</item><item>Yellow Submarine</item><item>She Said She Said</item><item>Good Day Sunshine</item><item>
+                    And Your Bird Can Sing</item><item>For No One</item><item>Doctor Robert</item><item>I Want To Tell You</item><item>
+                    Got To Get You Into My Life</item><item>Tomorrow Never Knows</item></item>
+                <item><item>Sgt\. Pepper\'s Lonely Heart Club Band</item><item>With A Little Help From My Friends</item><item>
+                    Lucy In The Sky With Diamonds</item><item>Getting Better</item><item>Fixing A Hole</item><item>She\'s Leaving Home
+                    </item><item>Being for The Benefit Of Mr\. Kite\!</item><item>Within You Without You</item><item>When I\'m Sixty\-Four
+                    </item><item>Lovely Rita</item><item>Good Morning Good Morning</item><item>Sgt\. Pepper\'s Lonely Heart Club Band
+                    \(Reprise\)</item><item>A Day In The Life</item></item>
+                <item><item>Smells Like Teen Spirit</item><item>In Bloom</item><item>Come As You Are</item><item>Breed</item><item>Lithium
+                    </item><item>Polly</item><item>Territorial Passings</item><item>Drain You</item><item>Lounge Act</item><item>Stay Away
+                    </item><item>On A Plain</item><item>Something In The Way\/Endless\, Nameless</item></item>
+            </string-array>
+    <string-array name="works">
+        <item>The Best of ABBA \(1980\)</item>
+        <item><item>Dirty Deeds Done Dirt Cheap \(1976\)</item><item>Back in Black \(1980\),</item></item>
+        <item>21 \(2011\)</item>
+        <item><item>Whatever \(1993\)</item><item>I\'m with Stupid\(1995\)</item><item>Bachelor No\. 2 \(1999\)</item><item>
+            Magnolia \(1999\)</item><item>Lost in Space \(2002\)</item><item>The Forgotten Arm \(2005\)</item><item>
+            \@\#\%\*\! Smilers \(2008\)</item><item>Mental Illness \(2017\)</item></item>
+        <item><item>Gets Next to You \(1971\)</item><item>Let\'s Stay Together \(1972\)</item><item>I\'m Still
+              in Love with You \(1972\)</item><item>Al Green\'s Greatest Hits \(1977\)</item></item>
+        <item><item>Pyramid \(1978\)</item></item>
+        <item><item>Jagged Little Pill \(1995\)</item><item>Supposed Former Infatuation Junkie \(1998\)</item><item>
+            Under Rug Swept \(2002\)</item><item>Feast on Scraps \(2002\)</item><item>So-Called Chaos \(2004\)</item><item>
+            Flavors of Entanglement \(2008\)</item><item>havoc and bright lights \(2012\)</item></item>
+        <item>Welcome to my Nightmare \(1975\)</item>
+        <item>Idol \(2000\)</item>
+        <item><item>Frank \(2003\)</item><item>Back to Black \(2006\)</item></item>
+        <item><item>Not a Pretty Girl \(1995\)\</item><item>Dilate \(1996\)</item><item>Little Plastic Castle \(1998\)</item><item>
+            To the Teeth \(1999\)</item><item>Revelling\, Reckoning \(2001\)</item><item>So Much Shouting So
+               Much Laughter \(2002\)</item><item>Evolve \(2003\)</item><item>Educated Guess \(2004\)</item><item>Knuckle
+               Down \(2005\)</item><item>Reprieve \(2006\)</item><item>\¿Which Side Are You On\? \(2012\)</item></item>
+        <item><item>Funeral \(2004\)\</item><item>Neon Bible \(2007\)</item><item>The Suburbs \(2010\)</item><item>Reflektor \(2013\)
+        </item><item>Everything Now \(2017\)</item></item>
+        <item><item>Aretha Now \(1968\)</item><item>The Best of Aretha Franklin \(1973\)</item></item>
+        <item><item>Revolver \(1966\)\</item><item>Sgt\. Pepper\'s Lonely Heart Club Band \(1967\)</item></item>
+        <item>Nevermind \(1991\)</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Micki\'s CD Database</string>
+    <string name="details">Details</string>
+    <style name="MickisCDDatabase" parent="Theme.MickisCDDatabase"/>
+    <style name="Theme.MickisCDDatabase" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="android:background">@color/teal_700</item>
+        <item name="android:buttonStyle">@style/buttonStyle</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="bandDescription">
+        <item name="android:textSize">30sp</item>
+        <item name="android:padding">30dp</item>
+    </style>
+    <style name="bandListName">
+        <item name="android:textSize">26sp</item>
+        <item name="android:padding">8dp</item>
+    </style>
+    <style name="bandName">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">30dp</item>
+        <item name="android:paddingRight">30dp</item>
+    </style>
+    <style name="buttonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@color/teal_200</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>
